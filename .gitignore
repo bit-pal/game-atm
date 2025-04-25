@@ -1,0 +1,41 @@
+# Node.js dependencies  
+node_modules/  
+package-lock.json  
+yarn.lock  
+
+# Environment variables  
+.env  
+
+# Logs  
+logs  
+*.log  
+npm-debug.log*  
+yarn-debug.log*  
+yarn-error.log*  
+
+# OS generated files  
+.DS_Store  
+Thumbs.db  
+
+# TypeScript build output  
+dist/  
+build/  
+out/  
+
+# TypeScript cache  
+*.tsbuildinfo  
+
+# VS Code directories and files  
+.vscode/  
+
+# Coverage directory used by testing tools  
+coverage/  
+
+# IDE specific directories  
+.idea/  
+.project  
+.idea/  
+*.iml  
+
+# Mac specific files  
+*.DS_Store  
